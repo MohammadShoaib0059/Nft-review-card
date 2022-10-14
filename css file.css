@@ -1,0 +1,62 @@
+.h{
+    border: 1px solid hsl(214, 68%, 17%);
+    width: 280px;
+    height: 500px;
+    border-radius: 15px;
+    background-color: hsl(214, 68%, 17%);
+    font-family: arial;
+   
+}
+.hh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(216, 61%, 11%);
+    margin-top: 80px;
+}
+.h img{
+    border: 1px solid hsl(214, 68%, 17%);
+     border-radius: 15px;
+     margin-left: 15px;
+     margin-top: 15px;
+}
+#h{
+    font-family: arial; 
+    font-weight: bold;
+     text-align: center; 
+     font-size: 18px; color: white;
+     margin-left: -88px; 
+     margin-top: 20px;
+}
+#hh{
+    font-family: arial;
+    color: hsl(215, 51%, 70%);
+    font-size: 14px; 
+    margin-left: 20px;
+}
+#h1{
+    color: hsl(178, 100%, 50%); 
+    margin-left: 18px;
+     font-size: 14px;
+}
+#h2{
+    color: hsl(215, 51%, 70%);
+     font-size: 14px;
+}
+.h3{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+#h3{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.attribution{
+    margin-top: 45px;
+    font-size: 10px;
+    color: white;
+}
+a{
+    color: hsl(178, 100%, 50%);
+}
